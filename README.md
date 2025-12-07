@@ -1,4 +1,4 @@
-# 🌍 Nexus: La Primera Democracia Algorítmica
+# 🌍 LINK: La Primera Democracia Algorítmica
 
 ## 🧪 El Experimento
 **¿Qué pasaría si 1 millón de personas redirigieran su café diario ($3) para votar colectivamente en resolver problemas globales?**
